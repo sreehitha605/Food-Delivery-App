@@ -33,5 +33,5 @@ For frontend and admin panel:
 
 For backend:
 ```bash
-   npm run server
-   ```
+  npm run server
+```
